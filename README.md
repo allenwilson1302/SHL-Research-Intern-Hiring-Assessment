@@ -22,7 +22,7 @@ This notebook presents my solution for the SHL Grammar Scoring challenge, where 
 
 ## Folder Stucture
 ```
-├── grammar_scoring.ipynb
+├── SHL_Grammar.ipynb
 └──  README.md
 ```
 
