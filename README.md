@@ -21,6 +21,8 @@ This notebook presents my solution for the SHL Grammar Scoring challenge, where 
 - The submitted `submission.csv` was generated using this pipeline.
 
 ## Folder Stucture
+```
 ├── grammar_scoring.ipynb
 └──  README.md
+```
 
